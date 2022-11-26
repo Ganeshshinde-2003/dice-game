@@ -168,4 +168,4 @@ main {
 .hidden {
   display: none;
 }
-@media;
+@media (max-width);
