@@ -168,4 +168,39 @@ main {
 .hidden {
   display: none;
 }
-@media (max-width);
+@media (max-width: 750px) {
+  main {
+    flex-direction: column;
+  }
+  .player {
+    height: 50%;
+  }
+  .current {
+    width: 65%;
+    padding: 0.5rem;
+  }
+  .name {
+    font-size: 2rem;
+  }
+  .score {
+    font-size: 3rem;
+  }
+  .btn {
+    font-size: 1rem;
+  }
+  .btn--new {
+    top: 0.5rem;
+  }
+  .current-score {
+    font-size: 2.8rem;
+  }
+  .current-label {
+    font-size: 1.5rem;
+  }
+  .btn--roll {
+    top: 25rem;
+  }
+  .btn--hold {
+    top: 30.1rem;
+  }
+}
