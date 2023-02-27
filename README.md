@@ -29,6 +29,13 @@ If a player rolls a 1 on either dice, their turn is over and their score for tha
 
 The first player to reach the target score of 100 wins the game.</p>
 
+<h3>Here are some pics</h3>
+
+![Screenshot (146)](https://user-images.githubusercontent.com/115361691/221461457-b2ee4293-d61a-4b1e-98e7-bd820e004e3d.png)
+
+![Screenshot (147)](https://user-images.githubusercontent.com/115361691/221461698-7c761f42-7355-4dd7-b408-f8e09d74df1c.png)
+
+
 <h2>Responsiveness</h2>
 <p>The Dice Game is designed to be responsive and should adapt to different screen sizes and devices. The game uses CSS media queries to adjust the layout and styles based on the width of the viewport.
 
